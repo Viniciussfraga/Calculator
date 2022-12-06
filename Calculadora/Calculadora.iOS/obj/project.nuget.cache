@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZClycutlEuMsMlwmS95v+KhcFd7glUyJxcRY4Uk3MQ/PbI8ZrKETQLUK5/EaZkNHdAjRLmeDG8dPi12CFpXWhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinix\\Documents\\Curso Xamarin 2\\Calculadora Xamarin\\Calculadora\\Calculadora\\Calculadora.iOS\\Calculadora.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinix\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vinix\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\vinix\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
